@@ -15,8 +15,11 @@ The entire project has 8 instance variables, varying from Strings, integers, dou
 Instance Variables:
 
 Strings: name,typeOfMeat
+
 Integers: inCart,amountAvailable
-Doubles: cost, 
+
+Doubles: cost
+
 Booleans: availability, inABottle, inACan
 
 ## What part of your project are you most proud of?
