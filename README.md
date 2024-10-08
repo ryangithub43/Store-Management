@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-10-04 7 03 33 PM](https://github.com/user-attachments/assets/224776f2-e6db-4761-a212-b4d8e3c6d486)
 
+![Screenshot 2024-10-08 12 10 53 PM](https://github.com/user-attachments/assets/44c7436c-bc4f-4d31-9c67-2bc7614345f0)
+
 ## Describe your project
 
 My project is a simplified user program where the user can put their name, cost of items, and the amount that's currently in their cart. The subclasses also add possible messages if the user meets the right criteria. For example, if the user puts the answers to the questions as false, and 0, in that order, there's a message that will show after. Same applies to the Dairy subclass. 
